@@ -19,6 +19,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "apidoc": "^0.17.7"
+    "apidoc": "^0.17.7",
+    "lodash": "^4.17.15"
   }
 }
